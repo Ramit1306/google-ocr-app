@@ -1,0 +1,5 @@
+{
+  "name": "Copy of OptiSelect",
+  "description": "An intelligent optical text selector that allows you to crop and extract text from any document or image using Gemini Vision.",
+  "requestFramePermissions": []
+}
